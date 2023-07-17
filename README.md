@@ -9,3 +9,6 @@ https://www.cisco.com/c/en/us/td/docs/ios-xml/ios/sec_data_acl/configuration/xe-
 
 HSRP   
 https://www.cisco.com/c/en/us/support/docs/ip/hot-standby-router-protocol-hsrp/9234-hsrpguidetoc.html
+
+Cisco Express Forwarding (CEF)   
+https://www.cisco.com/c/en/us/support/docs/routers/12000-series-routers/47321-ciscoef.html
